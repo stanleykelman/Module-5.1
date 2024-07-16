@@ -1,11 +1,12 @@
 # Module-5.1
+
 UCB Assignment 5.1
-# Module-5.1
 
-## UCB Assignment 5.1
+## Final Report
 
-This repository contains the final report for the UCB Assignment 5.1.
+The final report document contains the findings and feature importance analysis.
 
-### Contents
+## File List
+
 - `Final_Report.docx`: The final report document.
 
