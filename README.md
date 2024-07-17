@@ -32,6 +32,15 @@ This project was conducted as part of the UCB Assignment 5.1. The objective was 
 
 - `Final_Report.docx`: This document includes the full report of the findings, analysis, and conclusions.
 
+- Module-5.1/
+├── data/
+│   ├── raw/
+│   │   └── coupons.csv
+│   └── .gitkeep
+├── Final_Report.docx
+├── README.md
+
+
 ## How to Use
 
 1. Clone the repository:
