@@ -31,7 +31,7 @@ This project was conducted as part of the UCB Assignment 5.1. The objective was 
 ## Files
 ## Link to Jupyter Notebook
 
-[Link to Jupyter Notebook](https://github.com/stanleykelman/Module-5.1/blob/main/V2.prompt.ipynbURL_OF_YOUR_NOTEBOOK)
+[Link to Jupyter Notebook](https://github.com/stanleykelman/Module-5.1/blob/main/V2.prompt.ipynb)
 
 
 
