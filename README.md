@@ -29,6 +29,11 @@ The final report document contains the findings and feature importance analysis.
 This project was conducted as part of the UCB Assignment 5.1. The objective was to analyze data from a survey on Amazon Mechanical Turk to determine whether customers will accept a driving coupon. The analysis includes visualizations, probability distributions, and statistical summaries to distinguish between customers who accepted a coupon and those who did not.
 
 ## Files
+## Link to Jupyter Notebook
+
+[Link to Jupyter Notebook](https://github.com/stanleykelman/Module-5.1/blob/main/V2.prompt.ipynbURL_OF_YOUR_NOTEBOOK)
+
+
 
 - `Final_Report.docx`: This document includes the full report of the findings, analysis, and conclusions.
 
